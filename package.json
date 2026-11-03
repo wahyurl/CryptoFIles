@@ -1,0 +1,2 @@
+{ "name": "crypto-files", "version": "1.0.0", "type": "module", "private": true,
+  "scripts": { "start": "npx serve .", "test": "node tests/features.test.js" } }
